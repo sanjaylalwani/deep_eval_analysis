@@ -1,0 +1,11 @@
+[project]
+name = "deep_evaluation"
+version = "0.1.0"
+description = "My sample app"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "deepeval==3.3.6",
+    "streamlit==1.46.1"
+]
